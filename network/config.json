@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Edge description",
     "colorLabel": "Modularity",
-    "nodeLabel": "Node description"
+    "nodeLabel": "Node description test"
   },
   "features": {
     "search": true,
@@ -33,7 +33,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 1,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
@@ -42,8 +42,8 @@
     "graphProperties": {
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minNodeSize": 10,
+      "maxNodeSize": 100
     },
     "mouseProperties": {
       "maxRatio": 20,
