@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Edge description",
     "colorLabel": "Modularity",
-    "nodeLabel": "Projects \u0026 Organizations"
+    "nodeLabel": "Projects and Organizations"
   },
   "features": {
     "search": true,
