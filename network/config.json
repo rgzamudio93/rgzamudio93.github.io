@@ -13,8 +13,8 @@
     "title": "Organizaciones clave en politicas de energia y agua en la Ciudad de Mexico"
   },
   "legend": {
-    "edgeLabel": "Edge description",
-    "colorLabel": "Modularity",
+    "edgeLabel": "Collaboration",
+    "colorLabel": "Blue \u003d Water Policy",
     "nodeLabel": "Projects \u0026 Organizations"
   },
   "features": {
