@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "Collaboration",
-    "colorLabel": "Blue \u003d Water Policy",
-    "nodeLabel": "Projects \u0026 Organizations"
+    "colorLabel": "Blue Water Policy",
+    "nodeLabel": "Projects and Organizations"
   },
   "features": {
     "search": true,
@@ -42,8 +42,8 @@
     "graphProperties": {
       "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minNodeSize": 5,
+      "maxNodeSize": 20
     },
     "mouseProperties": {
       "maxRatio": 20,
