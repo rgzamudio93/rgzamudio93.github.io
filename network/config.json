@@ -4,13 +4,13 @@
   "data": "data.json",
   "logo": {
     "file": "",
-    "link": "",
+    "link": "https://lookerstudio.google.com/s/hPCSg4EETwk",
     "text": "RGZ"
   },
   "text": {
-    "more": "Les misarable information",
-    "intro": "test graph",
-    "title": "Test graph"
+    "more": "",
+    "intro": "Involucramiento de los actores clave en politicas publicas de agua y energia en la Ciudad de Mexico",
+    "title": "Organizaciones clave en politicas de energia y agua en la Ciudad de Mexico"
   },
   "legend": {
     "edgeLabel": "Edge description",
@@ -20,7 +20,7 @@
   "features": {
     "search": true,
     "groupSelectorAttribute": false,
-    "hoverBehavior": "default"
+    "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
