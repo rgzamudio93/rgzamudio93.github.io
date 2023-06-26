@@ -9,13 +9,12 @@
   },
   "text": {
     "more": "",
-    "intro": "Inner Development Goals is a framework that aims to build a set of skills to effectively address climate change",
-    "title": "Relations among skills for addressing complex challenges"
+    "intro": "Inner Development Goals is a framework of transformational skills for achieving Sustainable Development. It consists of 5 dimensions: Being (brown), Thinking (pink), Relating (red), Collaborating (orange) and Acting (dark red)"
   },
   "legend": {
     "edgeLabel": "Relation between skills",
-    "colorLabel": "Dimensions of Inner Development: Being, Thinking, Relating, Collaborating, Acting",
-    "nodeLabel": "Being-Brown, Thinking-Pink, Relating-Red, Collaborating-Orange, Acting-Dark red"
+    "colorLabel": "Dimensions of Inner Development",
+    "nodeLabel": "Skill"
   },
   "features": {
     "search": true,
@@ -33,7 +32,7 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 5,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
