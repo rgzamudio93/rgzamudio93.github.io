@@ -8,13 +8,14 @@
     "text": "RGZ"
   },
   "text": {
-    "more": "This visualization was created based on the relations explicitley mentioned in: "https://static1.squarespace.com/static/600d80b3387b98582a60354a/t/61aa2f96dfd3fb39c4fc4283/1638543258249/211201_IDG_Report_Full.pdf" ",
-    "intro": "Inner Development Goals is a framework of transformational skills for achieving Sustainable Development. It consists of 5 dimensions: Being (brown), Thinking (pink), Relating (red), Collaborating (orange) and Acting (dark red)"
+    "more": "This visualization was created by Ricardo Gomez Zamudio. \n\nTemplate provided by InteractiveVis project.\nInformation of relations between transformative skills was extracted from Inner Development Goals Framework.",
+    "intro": "Transformational skills for Sustainable Development based on the Inner Development Framework developed by academia, companies and government partners. This framework bring together these skills within 5 dimensions: Being (brown), Thinking (pink), Relating (red), Collaborating (orange) and Acting (dark red).",
+    "title": "How does transformational skills relate to each other?"
   },
   "legend": {
     "edgeLabel": "Relation between skills",
-    "colorLabel": "Dimensions of Inner Development",
-    "nodeLabel": "Skill"
+    "colorLabel": "Dimensions",
+    "nodeLabel": "Skills"
   },
   "features": {
     "search": true,
