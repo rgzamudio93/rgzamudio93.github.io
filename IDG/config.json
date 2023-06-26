@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "Relation between skills",
-    "colorLabel": "Dimensions",
-    "nodeLabel": "Set of skills 2"
+    "colorLabel": "Dimensions of Inner Development: Being, Thinking, Relating, Collaborating, Acting",
+    "nodeLabel": "Being-Brown, Thinking-Pink, Relating-Red, Collaborating-Orange, Acting-Dark red"
   },
   "features": {
     "search": true,
